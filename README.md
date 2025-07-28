@@ -1,6 +1,6 @@
 Real-Time Object & Text Detection App (notebook + streamlit.py file)
 Overview
-This project demonstrates a real-time application that detects objects and reads visible text from a webcam feed. The goal was to create a simple yet effective tool for live computer vision tasks, combining state-of-the-art deep learning for object detection with fast OCR for reading text from physical environments.
+This project demonstrates a real-time application that detects objects and reads visible text from a webcam feed. The goal was to create a simple yet effective tool for live computer vision tasks, combining state-of-the-art deep learning for object detection with fast OCR for reading text from physical environments
 
 Features
 Detects multiple objects from live video using YOLOv8
