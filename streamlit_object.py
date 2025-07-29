@@ -12,7 +12,6 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True
 )
-
 # Sidebar info
 with st.sidebar:
     st.header("📷 Real-Time Detection")
